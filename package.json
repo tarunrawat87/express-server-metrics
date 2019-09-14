@@ -1,0 +1,27 @@
+{
+  "name": "express-server-metrics",
+  "version": "1.0.0",
+  "description": "express server metrics",
+  "main": "expressStats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunrawat87/express-server-metrics.git"
+  },
+  "keywords": [
+    "express",
+    "npm",
+    "stats"
+  ],
+  "author": "Tarun Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunrawat87/express-server-metrics/issues"
+  },
+  "homepage": "https://github.com/tarunrawat87/express-server-metrics#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
