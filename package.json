@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/tarunrawat87/express-server-metrics#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
